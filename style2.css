@@ -1,0 +1,23 @@
+
+ul{
+    list-style-type: style type none;
+display: flex;
+border: 5px solid red;
+background-color: black;
+padding: 5px;
+justify-content: flex-center;
+}
+*{ 
+    margin: 0;
+    padding: 0;
+}
+a{
+color:pink;
+text-decoration: none;
+border: 1px white;
+margin: 5px;
+padding: 5px;
+}
+.active{
+background-color:blue ;
+}
